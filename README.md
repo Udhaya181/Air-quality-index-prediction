@@ -8,6 +8,7 @@ human health. The AQI is calculated based on measurements of pollutants such as
 3) sulfur dioxide,
 4) nitrogen dioxide
 5) carbon monoxide.
+
 The purpose of AQI is to warn people about the air they are living in and also letting them
 know which group of people might get affected by the air and also measures that an individual
 can take to prevent submission to air pollution. The AQI measures is done by the prediction of
